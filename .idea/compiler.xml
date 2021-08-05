@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Lecture_7_1" />
+        <module name="Lecture_7_Enum" />
       </profile>
     </annotationProcessing>
   </component>
